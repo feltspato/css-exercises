@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+
+.esquerdo,
+.direito {
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    display: inline-block;
+}
+
+.esquerdo button {
+    background-color: black;
+    color: white;
+}
+
+.direito button {
+    background-color: yellow;
+}
